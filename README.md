@@ -1,5 +1,4 @@
 # Cell-Identification-in-Human-Blood-using-AI
-Leiden clustering and deconvolution with AutoGeneS optimized NNLS
 
 Project Overview - Single Cell Analysis
 This project involves single-cell RNA sequencing (scRNA-seq) data analysis, specifically focusing on the deconvolution of bulk RNA sequencing (bulk-seq) data using various Python scripts and tools. Below is a detailed description of the purpose and function of each file in the project directory.
